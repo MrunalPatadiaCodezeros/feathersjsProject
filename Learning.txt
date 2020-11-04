@@ -1,0 +1,26 @@
+feathersjs Lerning
+
+Learning Feathers.js
+
+Develop Applications
+What is it?
+When to use it?
+Why to use it?
+How to use it?
+Where to use it?
+Feathers A framework for real-time applications and REST APIs
+
+
+Main Goal IN STRUCTURE maid application using ‘feathers.js’
+Ref.
+https://docs.feathersjs.com/guides/
+https://docs.feathersjs.com/
+https://scotch.io/tutorials/build-light-weight-rest-and-realtime-apps-with-feathersjs 
+https://www.sitepoint.com/feathers-js-guide/
+https://www.youtube.com/watch?v=Ac3Q7FwXkvw 
+https://medium.com/@muhammadtabaza/feathersjs-for-the-beginner-basic-concepts-b5abba2e888a
+https://github.com/feathersjs/awesome-feathersjs
+[[[[https://techformist.com/learn-feathersjs-realworld-client-app/]]]]
+https://gorrion.io/blog/use-feathersjs-to-build-rest-and-socket-io-api 
+https://www.ably.io/topic/feathersjs 
+
